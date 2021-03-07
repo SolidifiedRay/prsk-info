@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/prsk-info/category/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/tag/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/archives/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/README.en/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/assets/lib/fastclick/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/prsk-info/assets/lib/jquery_lazyload/</loc>
+</url>
+</urlset>
